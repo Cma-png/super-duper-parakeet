@@ -51,7 +51,7 @@ Before you run this project, make sure to have the following installed:
    After logging in, you can start the Streamlit app by running the following command:
 
    ```bash
-   streamlit run streamlit_app.py
+   streamlit run app.py
    ```
 
 ## Usage
