@@ -2,6 +2,11 @@
 
 This project allows users to generate images interactively based on text prompts using a Stable Diffusion model. The model is powered by Hugging Face's `diffusers` library and runs in a local environment.
 
+
+https://github.com/user-attachments/assets/8b41d41a-f73e-488a-9118-409e61540e0a
+
+
+
 ## Prerequisites
 
 Before you run this project, make sure to have the following installed:
